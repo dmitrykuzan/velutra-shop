@@ -1,0 +1,118 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "hero_maqQrb": {
+      "type": "hero",
+      "blocks": {
+        "product_GMyejt": {
+          "type": "product",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_GMyejt"
+      ],
+      "name": "Hero",
+      "settings": {}
+    },
+    "about_CKycFg": {
+      "type": "about",
+      "name": "About Velutra",
+      "settings": {}
+    },
+    "banner_velutra_XtiCQg": {
+      "type": "banner-velutra",
+      "blocks": {
+        "product_Efjnne": {
+          "type": "product",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_Efjnne"
+      ],
+      "name": "Banner Velutra",
+      "settings": {}
+    },
+    "benefits_TH4Aae": {
+      "type": "benefits",
+      "blocks": {
+        "product_fDjefW": {
+          "type": "product",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_fDjefW"
+      ],
+      "name": "Benefits Velutra",
+      "settings": {}
+    },
+    "velutra_cards_mngBHx": {
+      "type": "velutra-cards",
+      "blocks": {
+        "product_kaaWU4": {
+          "type": "product",
+          "settings": {
+            "product": "velutra"
+          }
+        }
+      },
+      "block_order": [
+        "product_kaaWU4"
+      ],
+      "name": "Sticky content",
+      "settings": {}
+    },
+    "customer_slider_YW3U33": {
+      "type": "customer-slider",
+      "name": "Customer review slider",
+      "settings": {}
+    },
+    "pros_cons_peK8Be": {
+      "type": "pros-cons",
+      "blocks": {
+        "product_MG3MVp": {
+          "type": "product",
+          "settings": {
+            "product": "velutra"
+          }
+        }
+      },
+      "block_order": [
+        "product_MG3MVp"
+      ],
+      "name": "Velutra Pros Cons",
+      "settings": {}
+    },
+    "follow_us_d3HMLf": {
+      "type": "follow-us",
+      "name": "Follow us on Instagram",
+      "settings": {}
+    }
+  },
+  "order": [
+    "hero_maqQrb",
+    "about_CKycFg",
+    "banner_velutra_XtiCQg",
+    "benefits_TH4Aae",
+    "velutra_cards_mngBHx",
+    "customer_slider_YW3U33",
+    "pros_cons_peK8Be",
+    "follow_us_d3HMLf"
+  ]
+}
