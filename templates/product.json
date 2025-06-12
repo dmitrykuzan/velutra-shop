@@ -137,6 +137,123 @@
       ],
       "name": "Velutra Pros Cons",
       "settings": {}
+    },
+    "customer_slider_LHF7n7": {
+      "type": "customer-slider",
+      "name": "Customer review slider",
+      "settings": {}
+    },
+    "collapsible_content_4Dt8M6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_NbAGTX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why should I take Velutra?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9DCGkH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often do I take it?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_yWym9j": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take to see results?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_b7tJFP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Velutra safe on sensitive skin?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_MNFLzG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can anyone take Velutra?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_79GtaX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can anyone take Velutra?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XUemQe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are results permanent?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_HnxjtW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often should I use Velutra?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_MDPhjy": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does Velutra work?",
+            "icon": "none",
+            "row_content": "<p>Your body is home to trillions of microorganisms that live in you. They perform critical functions like digesting food, managing inflammation, metabolizing nutrients and synthesizing vitamins. Velutra isn’t like most serums that topically target your skin, Velutra works to heal your gut microbiome. When your stomach is healthy the rest of your body is healthy. </p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_NbAGTX",
+        "collapsible_row_9DCGkH",
+        "collapsible_row_yWym9j",
+        "collapsible_row_b7tJFP",
+        "collapsible_row_MNFLzG",
+        "collapsible_row_79GtaX",
+        "collapsible_row_XUemQe",
+        "collapsible_row_HnxjtW",
+        "collapsible_row_MDPhjy"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
@@ -144,6 +261,8 @@
     "about_i7XaeQ",
     "benefits_tJXihL",
     "related-products",
-    "pros_cons_KAGFyB"
+    "pros_cons_KAGFyB",
+    "customer_slider_LHF7n7",
+    "collapsible_content_4Dt8M6"
   ]
 }
