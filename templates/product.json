@@ -121,12 +121,29 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "pros_cons_KAGFyB": {
+      "type": "pros-cons",
+      "blocks": {
+        "product_PyTdz9": {
+          "type": "product",
+          "settings": {
+            "product": "velutra"
+          }
+        }
+      },
+      "block_order": [
+        "product_PyTdz9"
+      ],
+      "name": "Velutra Pros Cons",
+      "settings": {}
     }
   },
   "order": [
     "main",
     "about_i7XaeQ",
     "benefits_tJXihL",
-    "related-products"
+    "related-products",
+    "pros_cons_KAGFyB"
   ]
 }
