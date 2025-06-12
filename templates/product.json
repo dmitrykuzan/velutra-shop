@@ -82,8 +82,30 @@
         "padding_bottom": 52
       }
     },
+    "about_i7XaeQ": {
+      "type": "about",
+      "name": "About Velutra",
+      "settings": {}
+    },
+    "benefits_tJXihL": {
+      "type": "benefits",
+      "blocks": {
+        "product_wK64KC": {
+          "type": "product",
+          "settings": {
+            "product": "velutra"
+          }
+        }
+      },
+      "block_order": [
+        "product_wK64KC"
+      ],
+      "name": "Benefits Velutra",
+      "settings": {}
+    },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -103,6 +125,8 @@
   },
   "order": [
     "main",
+    "about_i7XaeQ",
+    "benefits_tJXihL",
     "related-products"
   ]
 }
